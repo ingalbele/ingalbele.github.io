@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingalbele.github.io/sitemap.html.gz
+Sitemap: https://ingalbele.github.io/app/sitemap.html.gz
+Sitemap: https://ingalbele.github.io/assets/sitemap.html.gz
+Sitemap: https://ingalbele.github.io/css/sitemap.html.gz
+Sitemap: https://ingalbele.github.io/includes/sitemap.html.gz
+Sitemap: https://ingalbele.github.io/item/sitemap.html.gz
+Sitemap: https://ingalbele.github.io/src/sitemap.html.gz
